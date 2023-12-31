@@ -16,11 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Create GitHub Account here
+          create your github account
         </a>
       </header>
     </div>
-  );ß
+  );
 }
 
 export default App;
